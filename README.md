@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bnkv66
-- 👀 I’m interested in R programming
+- 👀 I’m interested in R programming,python,SQL,Power Builder,other data analystics tools also want to learn where best datasets available
 - 🌱 I’m currently learning Google Data analytics certification
 - 💞️ I’m looking to collaborate on coding on data analyst
 - 📫 How to reach me use my email nrk260566@gmail.com
